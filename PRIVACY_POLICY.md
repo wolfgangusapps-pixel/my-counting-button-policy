@@ -115,17 +115,7 @@ We may update this Privacy Policy from time to time to reflect changes in our pr
 
 If you have questions about this Privacy Policy or our privacy practices, please contact us:
 
-**Email:** [your-email@example.com]
-
-**Mailing Address:**
-```
-Your Name/Company
-[Your Address]
-[City, State/Province, Postal Code]
-[Country]
-```
-
-**Data Protection Officer (if applicable):** [contact information]
+**Email:** wolfgangusapps@gmail.com
 
 ---
 
